@@ -3,24 +3,24 @@
 <img src="clouds-banner-04.webp" width="100%" alt="Profile banner" />
 
 <p align="center">
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://surelyknott.co.uk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=google-chrome&logo-color=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/your-handle" target="_blank">
+  <a href="https://linkedin.com/in/jack-knott-uk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/your-handle" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=x&logo-color=white" alt="Twitter/X" />
   </a>
-  <a href="https://github.com/your-handle" target="_blank">
+  <a href="https://github.com/surelyknott" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cdf998&style=plastic&logo=github&logo-color=white" alt="GitHub" />
   </a>
-  <a href="https://your-domain.com/resume.pdf" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=readthedocs&logo-color=white" alt="Resume" />
   </a>
 </p>
 
-Short intro about who you are, what you build, and what you are focused on.
+Creative, detail-oriented software engineer focused on UI consistency, responsive layouts, and user experience, with a strong interest in AI. Experienced in building successful front- and back-end web applications. Brings 12 years of technical experience in film and television production, delivering complex systems under tight deadlines while collaborating across multidisciplinary teams.
 
 See [my website](https://your-website.com) for more information.
 
