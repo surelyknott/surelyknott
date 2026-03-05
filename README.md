@@ -30,10 +30,10 @@ See [my website](https://surelyknott.co.uk) for more information.
   <table bordercolor="#66b2b2">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">Project One</h3>
+        <h3 align="center">Matrix Wordle</h3>
         <br />
         <a target="_blank" href="https://github.com/your-handle/project-one">
-          <img src="https://your-image-url.com/project-one.gif" width="100%" alt="Project One" />
+          <img src="matrix-test-master.gif" width="100%" alt="gif of matrix wordle website" />
         </a>
         <br />
         <p align="center">
@@ -47,7 +47,7 @@ See [my website](https://surelyknott.co.uk) for more information.
             <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white" alt="Video" />
           </a>
         </p>
-        <p><strong>Tech A, Tech B, Tech C</strong> - One-line summary of what this project does.</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.</p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Project Two</h3>
