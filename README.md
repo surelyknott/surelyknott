@@ -9,12 +9,8 @@
   <a href="https://linkedin.com/in/jack-knott-uk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=x&logo-color=white" alt="Twitter/X" />
-  </a>
   <a href="https://github.com/surelyknott" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cdf998&style=plastic&logo=github&logo-color=white" alt="GitHub" />
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cdf998&style=plastic&logo=github&logo-
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=readthedocs&logo-color=white" alt="Resume" />
   </a>
