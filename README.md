@@ -22,7 +22,7 @@
 
 Creative, detail-oriented software engineer focused on UI consistency, responsive layouts, and user experience, with a strong interest in AI. Experienced in building successful front- and back-end web applications. Brings 12 years of technical experience in film and television production, delivering complex systems under tight deadlines while collaborating across multidisciplinary teams.
 
-See [my website](https://your-website.com) for more information.
+See [my website](https://surelyknott.co.uk) for more information.
 
 <details name="Featured Projects" open>
   <summary><h1>Featured Projects</h1></summary>
