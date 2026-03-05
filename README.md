@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-# Jack Knott
-
-<img src="https://your-banner-image-url.com/banner.png" width="100%" alt="Profile banner" />
+<img src="clouds-banner.jpg" width="100%" alt="Profile banner" />
 
 <p align="center">
   <a href="https://your-website.com" target="_blank">
