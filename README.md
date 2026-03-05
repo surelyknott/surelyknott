@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/surelyknott" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cdf998&style=plastic&logo=github&logo-
+    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cdf998&style=plastic&logo=github&logo-color=white" alt="GitHub" />
+  </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=readthedocs&logo-color=white" alt="Resume" />
   </a>
