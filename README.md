@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img src="clouds-banner-04.webp" width="100%" alt="Profile banner" />
 
 <p align="center">
