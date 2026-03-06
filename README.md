@@ -67,21 +67,22 @@ See [my website](https://surelyknott.co.uk) for more information.
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">Project Three</h3>
+        <h3 align="center">Pete Hills - Portfolio</h3>
         <br />
         <a target="_blank" href="https://github.com/your-handle/project-three">
-          <img src="https://your-image-url.com/project-three.gif" width="100%" alt="Project Three" />
+          <img src="pete-giftest-02.gif" width="100%" alt="Pete Hills editor portfolio website gif" />
         </a>
         <br />
         <p align="center">
           <a href="https://github.com/your-handle/project-three" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" />
           </a>
-          <a href="https://your-demo-url.com/project-three" target="_blank">
+          <a href="https://petehillseditor.com" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=render&logo-color=white" alt="Demo" />
           </a>
         </p>
-        <p><strong>Tech A, Tech B, Tech C</strong> - One-line summary of what this project does.</p>
+        <p><strong>HTML, CSS, JavaScript, Wordpress</strong> - Pete Hills needed a WordPress-based portfolio he could manage himself. I rebuilt the experience around a CMS workflow while                 modernizing the look and performance.
+        </p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Project Four</h3>
