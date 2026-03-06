@@ -44,7 +44,7 @@ See [my website](https://surelyknott.co.uk) for more information.
         <p><strong>HTML, CSS, JavaScript</strong> - Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.</p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">Stuffed Gourmet Trailers</h3>
+        <h3 align="center">Stuffed Trailers</h3>
         <br />
         <a target="_blank" href="https://github.com/your-handle/project-two">
           <img src="stuffed-giftest-03.gif" width="100%" alt="gif of stuffed gourmet trailers website focusing on live calendar and booking system" />
