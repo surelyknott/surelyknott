@@ -47,21 +47,22 @@ See [my website](https://surelyknott.co.uk) for more information.
         <p><strong>HTML, CSS, JavaScript</strong> - Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.</p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">Project Two</h3>
+        <h3 align="center">Stuffed Gourmet Trailers</h3>
         <br />
         <a target="_blank" href="https://github.com/your-handle/project-two">
-          <img src="https://your-image-url.com/project-two.gif" width="100%" alt="Project Two" />
+          <img src="stuffed-giftest-03.gif" width="100%" alt="gif of stuffed gourmet trailers website focusing on live calendar and booking system" />
         </a>
         <br />
         <p align="center">
           <a href="https://github.com/your-handle/project-two" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" />
           </a>
-          <a href="https://your-demo-url.com/project-two" target="_blank">
+          <a href="https://stuffedgourmettrailers.co.uk" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=netlify&logo-color=white" alt="Demo" />
           </a>
         </p>
-        <p><strong>Tech A, Tech B, Tech C</strong> - One-line summary of what this project does.</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Stuffed Gourmet Trailers is an event catering brand. I delivered a high-end marketing site with a real-time booking flow and online deposits,           and helped shape the visual identity through logo design and original photography.
+        </p>
       </td>
     </tr>
     <tr>
