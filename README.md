@@ -40,9 +40,6 @@ See [my website](https://surelyknott.co.uk) for more information.
           <a href="https://your-demo-url.com/project-one" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=vercel&logo-color=white" alt="Demo" />
           </a>
-          <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white" alt="Video" />
-          </a>
         </p>
         <p><strong>HTML, CSS, JavaScript</strong> - Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.</p>
       </td>
