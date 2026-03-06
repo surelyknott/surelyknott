@@ -1,18 +1,10 @@
 <img src="clouds-banner-04.webp" width="100%" alt="Profile banner" />
 
 <p align="center">
-  <a href="https://surelyknott.co.uk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=google-chrome&logo-color=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/jack-knott-uk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/surelyknott" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cdf998&style=plastic&logo=github&logo-color=white" alt="GitHub" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=readthedocs&logo-color=white" alt="Resume" />
-  </a>
+  <a href="https://surelyknott.co.uk" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=google-chrome&logo-color=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/jack-knott-uk" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/surelyknott" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cdf998&style=plastic&logo=github&logo-color=white" alt="GitHub" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=readthedocs&logo-color=white" alt="Resume" /></a>
 </p>
 
 Creative, detail-oriented software engineer focused on UI consistency, responsive layouts, and user experience, with a strong interest in AI. Experienced in building successful front- and back-end web applications. Brings 12 years of technical experience in film and television production, delivering complex systems under tight deadlines while collaborating across multidisciplinary teams.
@@ -27,34 +19,22 @@ See [my website](https://surelyknott.co.uk) for more information.
       <td width="50%" valign="top">
         <h3 align="center">Matrix Wordle</h3>
         <br />
-        <a target="_blank" href="https://github.com/your-handle/project-one">
-          <img src="matrix-test-master.gif" width="100%" alt="gif of matrix wordle website" />
-        </a>
+        <a target="_blank" href="https://github.com/your-handle/project-one"><img src="matrix-test-master.gif" width="100%" alt="gif of matrix wordle website" /></a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-handle/project-one" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" />
-          </a>
-          <a href="https://matrixwordle.netlify.app" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=vercel&logo-color=white" alt="Demo" />
-          </a>
+          <a href="https://github.com/your-handle/project-one" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" /></a>
+          <a href="https://matrixwordle.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=vercel&logo-color=white" alt="Demo" /></a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.          </p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Stuffed Trailers</h3>
         <br />
-        <a target="_blank" href="https://github.com/your-handle/project-two">
-          <img src="stuffed-giftest-03.gif" width="100%" alt="gif of stuffed gourmet trailers website focusing on live calendar and booking system" />
-        </a>
+        <a target="_blank" href="https://github.com/your-handle/project-two"><img src="stuffed-giftest-03.gif" width="100%" alt="gif of stuffed gourmet trailers website focusing on live calendar and booking system" /></a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-handle/project-two" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" />
-          </a>
-          <a href="https://stuffedgourmettrailers.co.uk" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=netlify&logo-color=white" alt="Demo" />
-          </a>
+          <a href="https://github.com/your-handle/project-two" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" /></a>
+          <a href="https://stuffedgourmettrailers.co.uk" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=netlify&logo-color=white" alt="Demo" /></a>
         </p>
         <p><strong>HTML, CSS, JavaScript</strong> - Stuffed Gourmet Trailers is an event catering brand. I delivered a high-end marketing site with a real-time booking flow and online deposits,           and helped shape the visual identity through logo design and original photography.
         </p>
@@ -64,17 +44,11 @@ See [my website](https://surelyknott.co.uk) for more information.
       <td width="50%" valign="top">
         <h3 align="center">Pete Hills - Portfolio</h3>
         <br />
-        <a target="_blank" href="https://github.com/your-handle/project-three">
-          <img src="pete-giftest-02.gif" width="100%" alt="Pete Hills editor portfolio website gif" />
-        </a>
+        <a target="_blank" href="https://github.com/your-handle/project-three"><img src="pete-giftest-02.gif" width="100%" alt="Pete Hills editor portfolio website gif" /></a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-handle/project-three" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" />
-          </a>
-          <a href="https://petehillseditor.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=render&logo-color=white" alt="Demo" />
-          </a>
+          <a href="https://github.com/your-handle/project-three" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" /></a>
+          <a href="https://petehillseditor.com" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=render&logo-color=white" alt="Demo" /></a>
         </p>
         <p><strong>HTML, CSS, JavaScript, Wordpress</strong> - Pete Hills needed a WordPress-based portfolio he could manage himself. I rebuilt the experience around a CMS workflow while                 modernizing the look and performance.
         </p>
@@ -82,17 +56,11 @@ See [my website](https://surelyknott.co.uk) for more information.
       <td width="50%" valign="top">
         <h3 align="center">Annabels - Shopify</h3>
         <br />
-        <a target="_blank" href="https://github.com/your-handle/project-four">
-          <img src="annabels-giftest-02.gif" width="100%" alt="gif of Annabels, Too shopify website user interaction" />
-        </a>
+        <a target="_blank" href="https://github.com/your-handle/project-four"><img src="annabels-giftest-02.gif" width="100%" alt="gif of Annabels, Too shopify website user interaction" /></a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-handle/project-four" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" />
-          </a>
-          <a href="https://annabelstoo.myshopify.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=railway&logo-color=white" alt="Demo" />
-          </a>
+          <a href="https://github.com/your-handle/project-four" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" /></a>
+          <a href="https://annabelstoo.myshopify.com" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=railway&logo-color=white" alt="Demo" /></a>
         </p>
         <p><strong>Shopify Admin, Excel, CSV Transform</strong> - Migrated 500+ products, variants, and inventory records from a legacy database into Shopify using CSV transformation and bulk             import tools.
         </p>
