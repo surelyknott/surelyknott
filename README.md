@@ -82,21 +82,22 @@ See [my website](https://surelyknott.co.uk) for more information.
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">Annabels - Shopify migration</h3>
+        <h3 align="center">Annabels - Shopify</h3>
         <br />
         <a target="_blank" href="https://github.com/your-handle/project-four">
-          <img src="https://your-image-url.com/project-four.gif" width="100%" alt="Project Four" />
+          <img src="annabels-giftest-02.gif" width="100%" alt="gif of Annabels, Too shopify website user interaction" />
         </a>
         <br />
         <p align="center">
           <a href="https://github.com/your-handle/project-four" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" />
           </a>
-          <a href="https://your-demo-url.com/project-four" target="_blank">
+          <a href="https://annabelstoo.myshopify.com" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=railway&logo-color=white" alt="Demo" />
           </a>
         </p>
-        <p><strong>Tech A, Tech B, Tech C</strong> - Full database migration from outdated site to modern Shopify system with socials integration.</p>
+        <p><strong>Shopify Admin, Excel, CSV Transform</strong> - Migrated 500+ products, variants, and inventory records from a legacy database into Shopify using CSV transformation and bulk             import tools.
+        </p>
       </td>
     </tr>
   </table>
