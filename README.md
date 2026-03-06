@@ -154,9 +154,6 @@ See [my website](https://surelyknott.co.uk) for more information.
   <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/static/v1?label=|&message=REACT&color=4a935c&style=plastic&logo=react" alt="React" />
   <img src="https://img.shields.io/static/v1?label=|&message=NODEJS&color=98bf53&style=plastic&logo=nodedotjs" alt="Node.js" />
-  <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python" alt="Python" />
-  <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazonwebservices" alt="AWS" />
-  <img src="https://img.shields.io/static/v1?label=|&message=DOCKER&color=cdd148&style=plastic&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/static/v1?label=|&message=POSTGRES&color=bbb111&style=plastic&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/static/v1?label=|&message=MONGODB&color=cdd148&style=plastic&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git" alt="Git" />
@@ -167,16 +164,16 @@ See [my website](https://surelyknott.co.uk) for more information.
 <h1 align="center">Connect</h1>
 
 <p align="center">
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://surelyknott.co.uk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=google-chrome&logo-color=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/your-handle" target="_blank">
+  <a href="https://linkedin.com/in/jack-knott-uk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/your-handle" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=x&logo-color=white" alt="Twitter/X" />
   </a>
-  <a href="mailto:you@example.com" target="_blank">
+  <a href="mailto:hello@surelyknott.co.uk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=cdf998&style=plastic&logo=gmail&logo-color=white" alt="Email" />
   </a>
 </p>
