@@ -164,20 +164,11 @@ See [my website](https://surelyknott.co.uk) for more information.
 <h1 align="center">Connect</h1>
 
 <p align="center">
-  <a href="https://surelyknott.co.uk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=23555f&style=plastic&logo=google-chrome&logo-color=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/jack-knott-uk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=23555f&style=plastic&logo=x&logo-color=white" alt="Twitter/X" />
-  </a>
-  <a href="mailto:hello@surelyknott.co.uk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=cdf998&style=plastic&logo=gmail&logo-color=white" alt="Email" />
-  </a>
+  <a href="https://surelyknott.co.uk"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=google-chrome&logo-color=white" /></a>
+  <a href="https://linkedin.com/in/jack-knott-uk"><img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=x&logo-color=white" /></a>
+  <a href="mailto:hello@surelyknott.co.uk"><img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=cdf998&style=plastic&logo=gmail&logo-color=white" /></a>
 </p>
-
 
 
 <!--
