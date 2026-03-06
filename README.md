@@ -82,7 +82,7 @@ See [my website](https://surelyknott.co.uk) for more information.
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">Project Four</h3>
+        <h3 align="center">Annabels - Shopify migration</h3>
         <br />
         <a target="_blank" href="https://github.com/your-handle/project-four">
           <img src="https://your-image-url.com/project-four.gif" width="100%" alt="Project Four" />
@@ -96,7 +96,7 @@ See [my website](https://surelyknott.co.uk) for more information.
             <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=railway&logo-color=white" alt="Demo" />
           </a>
         </p>
-        <p><strong>Tech A, Tech B, Tech C</strong> - One-line summary of what this project does.</p>
+        <p><strong>Tech A, Tech B, Tech C</strong> - Full database migration from outdated site to modern Shopify system with socials integration.</p>
       </td>
     </tr>
   </table>
