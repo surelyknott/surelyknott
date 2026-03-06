@@ -37,7 +37,7 @@ See [my website](https://surelyknott.co.uk) for more information.
           <a href="https://github.com/your-handle/project-one" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" alt="Repo" />
           </a>
-          <a href="https://your-demo-url.com/project-one" target="_blank">
+          <a href="https://matrixwordle.netlify.app" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=vercel&logo-color=white" alt="Demo" />
           </a>
         </p>
