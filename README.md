@@ -4,7 +4,6 @@
   <a href="https://surelyknott.co.uk"><img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=23555f&style=for-the-badge&logo=google-chrome" alt="Website" /></a>
   <a href="https://linkedin.com/in/jack-knott-uk"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=23555f&style=for-the-badge&logo=linkedin&logo-color=white" alt="LinkedIn" /></a>
   <a href="https://github.com/surelyknott"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=23555f&style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=RESUME&color=23555f&style=for-the-badge&logo=readthedocs&logo-color=white" alt="Resume" /></a>
 </p>
 
 Creative, detail-oriented software engineer focused on UI consistency, responsive layouts, and user experience, with a strong interest in AI. Experienced in building successful front- and back-end web applications. Brings 12 years of technical experience in film and television production, delivering complex systems under tight deadlines while collaborating across multidisciplinary teams.
@@ -48,7 +47,7 @@ See [my website](https://surelyknott.co.uk) for more information.
         <br />
         <p align="center">
           <a href="https://github.com/your-handle/project-three" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
-          <a href="https://petehillseditor.com" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=23555f&style=for-the-badge&logo=render" alt="Demo" /></a>
+          <a href="https://petehillseditor.com" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=for-the-badge&logo=render" alt="Demo" /></a>
         </p>
         <p><strong>HTML, CSS, JavaScript, Wordpress</strong> - Pete Hills needed a WordPress-based portfolio he could manage himself. I rebuilt the experience around a CMS workflow while                 modernizing the look and performance.
         </p>
@@ -60,7 +59,7 @@ See [my website](https://surelyknott.co.uk) for more information.
         <br />
         <p align="center">
           <a href="https://github.com/your-handle/project-four" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
-          <a href="https://annabelstoo.myshopify.com" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=23555f&style=for-the-badge&logo=railway" alt="Demo" /></a>
+          <a href="https://annabelstoo.myshopify.com" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=for-the-badge&logo=railway" alt="Demo" /></a>
         </p>
         <p><strong>Shopify Admin, Excel, CSV Transform</strong> - Migrated 500+ products, variants, and inventory records from a legacy database into Shopify using CSV transformation and bulk             import tools.
         </p>
