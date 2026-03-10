@@ -21,7 +21,7 @@ See [my website](https://surelyknott.co.uk) for more information.
         <a target="_blank" href="https://matrixwordle.netlify.app"><img src="matrix-test-master.gif" width="100%" alt="gif of matrix wordle website" /></a>
         <br />
         <p align="center">
-          <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
+          <a href="https://github.com/surelyknott/matrix-wordle" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
           <a href="https://matrixwordle.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=for-the-badge&logo=vercel" alt="Demo" /></a>
         </p>
         <p>Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.          </p>
