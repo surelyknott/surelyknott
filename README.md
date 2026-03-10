@@ -18,13 +18,13 @@ See [my website](https://surelyknott.co.uk) for more information.
       <td width="50%" valign="top">
         <h3 align="center">Matrix Wordle</h3>
         <br />
-        <a target="_blank" href="https://github.com/your-handle/project-one"><img src="matrix-test-master.gif" width="100%" alt="gif of matrix wordle website" /></a>
+        <a target="_blank" href="https://matrixwordle.netlify.app"><img src="matrix-test-master.gif" width="100%" alt="gif of matrix wordle website" /></a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-handle/project-one" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
+          <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
           <a href="https://matrixwordle.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=for-the-badge&logo=vercel" alt="Demo" /></a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.          </p>
+        <p>Matrix Wordle is a Matrix-themed spin on the popular word game. I built it to test whether I could recreate Wordle’s mechanics from scratch.          </p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Stuffed Trailers</h3>
@@ -32,10 +32,9 @@ See [my website](https://surelyknott.co.uk) for more information.
         <a target="_blank" href="https://github.com/your-handle/project-two"><img src="stuffed-giftest-03.gif" width="100%" alt="gif of stuffed gourmet trailers website focusing on live calendar and booking system" /></a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-handle/project-two" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
           <a href="https://stuffedgourmettrailers.co.uk" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=for-the-badge&logo=netlify" alt="Demo" /></a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Stuffed Gourmet Trailers is an event catering brand. I delivered a high-end marketing site with a real-time booking flow and online deposits,           and helped shape the visual identity through logo design and original photography.
+        <p>Stuffed Gourmet Trailers is an event catering brand. I delivered a high-end marketing site with a real-time booking flow and online deposits,           and helped shape the visual identity through logo design and original photography.
         </p>
       </td>
     </tr>
@@ -46,10 +45,9 @@ See [my website](https://surelyknott.co.uk) for more information.
         <a target="_blank" href="https://github.com/your-handle/project-three"><img src="pete-giftest-02.gif" width="100%" alt="Pete Hills editor portfolio website gif" /></a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-handle/project-three" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
           <a href="https://petehillseditor.com" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=for-the-badge&logo=render" alt="Demo" /></a>
         </p>
-        <p><strong>HTML, CSS, JavaScript, Wordpress</strong> - Pete Hills needed a WordPress-based portfolio he could manage himself. I rebuilt the experience around a CMS workflow while                 modernizing the look and performance.
+        <p>Pete Hills needed a WordPress-based portfolio he could manage himself. I rebuilt the experience around a CMS workflow while                 modernizing the look and performance.
         </p>
       </td>
       <td width="50%" valign="top">
@@ -58,18 +56,17 @@ See [my website](https://surelyknott.co.uk) for more information.
         <a target="_blank" href="https://github.com/your-handle/project-four"><img src="annabels-giftest-02.gif" width="100%" alt="gif of Annabels, Too shopify website user interaction" /></a>
         <br />
         <p align="center">
-          <a href="https://github.com/your-handle/project-four" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github" alt="Repo" /></a>
           <a href="https://annabelstoo.myshopify.com" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=for-the-badge&logo=railway" alt="Demo" /></a>
         </p>
-        <p><strong>Shopify Admin, Excel, CSV Transform</strong> - Migrated 500+ products, variants, and inventory records from a legacy database into Shopify using CSV transformation and bulk             import tools.
+        <p>Migrated 500+ products, variants, and inventory records from a legacy database into Shopify using CSV transformation and bulk             import tools.
         </p>
       </td>
     </tr>
   </table>
 </details>
 
-<details name="More Projects">
-  <summary><h1>More Projects</h1></summary>
+<details name="Additional Projects">
+  <summary><h1>More fun projects</h1></summary>
 
   <table bordercolor="#66b2b2">
     <tr>
@@ -88,7 +85,7 @@ See [my website](https://surelyknott.co.uk) for more information.
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=google-chrome" alt="Website" />
           </a>
         </p>
-        <p><strong>Tech A, Tech B, Tech C</strong> - One-line summary of what this project does.</p>
+        <p>One-line summary of what this project does.</p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Project Six</h3>
@@ -105,7 +102,7 @@ See [my website](https://surelyknott.co.uk) for more information.
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=google-chrome" alt="Website" />
           </a>
         </p>
-        <p><strong>Tech A, Tech B, Tech C</strong> - One-line summary of what this project does.</p>
+        <p>One-line summary of what this project does.</p>
       </td>
     </tr>
   </table>
