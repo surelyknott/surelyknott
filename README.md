@@ -6,7 +6,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=RESUME&color=23555f&style=for-the-badge&logo=readthedocs" alt="Resume" /></a>
 </p>
 
-Creative, detail-oriented software engineer focused on UI consistency, responsive layouts, and user experience, with a strong interest in AI. Experienced in building successful front- and back-end web applications. Brings 12 years of technical experience in film and television production, delivering complex systems under tight deadlines while collaborating across multidisciplinary teams.
+Creative, detail-oriented software engineer. I’ve built multiple successful JavaScript full-stack web applications, focusing heavily on custom design and user experience. 12 years of technical experience in film and television production, delivering complex systems under tight deadlines while collaborating across multidisciplinary teams.Recent work includes multi-page marketing and booking sites using JavaScript, WordPress and Netlify, including payment and API integrations.I’m currently seeking a full-stack / front-end developer role where I can contribute quickly and keep growing in a strong engineering team with global reach.
 
 See [my website](https://surelyknott.co.uk) for more information.
 
