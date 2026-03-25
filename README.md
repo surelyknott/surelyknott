@@ -6,7 +6,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=RESUME&color=23555f&style=for-the-badge&logo=readthedocs" alt="Resume" /></a>
 </p>
 
-Creative, detail-oriented software engineer. I’ve built multiple successful JavaScript full-stack web applications, focusing heavily on custom design and user experience. 12 years of technical experience in film and television production, delivering complex systems under tight deadlines while collaborating across multidisciplinary teams.Recent work includes multi-page marketing and booking sites using JavaScript, WordPress and Netlify, including payment and API integrations.I’m currently seeking a full-stack / front-end developer role where I can contribute quickly and keep growing in a strong engineering team with global reach.
+Full-stack developer building real-world applications that actually get used. Recently built and shipped a live booking and payment platform for a catering business, helping streamline operations across multiple trailers — from availability and deposits to automated workflows. Alongside this, I work freelance in film and TV as a lighting technician, delivering complex technical setups under pressure. That experience shapes how I approach development: practical, reliable, and focused on solving real problems. I enjoy working across the stack, shipping production-ready features, and using AI tools to prototype, debug, and iterate quickly.
 
 See [my website](https://surelyknott.co.uk) for more information.
 
